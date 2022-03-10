@@ -18,7 +18,7 @@
 
 |Id|Low Level Requirements for HL3|ID|Low Level Requirements HL4|
 |---|-----------------------|--|----------------------------|
-|LLR3.1|As the button pressed all LED'S should get turned on in Anticlockwise manner||LLR4.1|LED'S should glow in a manner Green-->Blue-->Red-->Orange|
+|LLR3.1|As the button pressed all LED'S should get turned on in Anticlockwise manner|LLR4.1|LED'S should glow in a manner Green-->Blue-->Red-->Orange|
 |LLR3.2|System should be Encrypted with masked data|LLR4.2|System should provide Random Data each time to ensure more security |
 
 
